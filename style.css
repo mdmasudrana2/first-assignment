@@ -30,3 +30,59 @@
 .align{
     text-align: center;
 }
+.class2{
+    text-align: center;
+    margin-top: 70px;
+}
+.images-food{
+    height: 30px;
+    width: 40px;
+    margin-top:40px ;
+    margin-left:20px ;
+}
+.class-food{
+    background-color: rgb(196, 201, 200);
+    margin-left: 80px;
+    height: 300px;
+    width: 300px;
+}
+.class3{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.image-familly{
+    height: 30px;
+    width: 40px;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.class-familly{
+    background-color: rgb(251, 245, 234);
+    margin-left: 80px;
+    height: 300px;
+    width: 300px;
+}
+.class-familly2{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.image-educated{
+    height: 30px;
+    width: 40px;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.class-educated{
+    background-color: rgb(237, 217, 193);
+    margin-left: 80px;
+    height:300px ;
+    width: 300px;
+}
+.educated2{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.main-div{
+    display: flex;
+    margin-top: 50px;
+}
