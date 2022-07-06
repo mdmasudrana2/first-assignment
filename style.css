@@ -9,5 +9,24 @@
 }
 .button{
     background-color: chocolate;
-    margin-left: 600px;
+    padding: 10px 30px;
+    margin-left: 550px;
+}
+.text-align{
+    text-align: center;
+    margin-top: 50px;
+}
+.class1{
+    display: flex;
+    margin-left: 100px;
+}
+#color{
+    color: chocolate;
+    margin-left:40px ;
+    height: 40px;
+    width: 60px;
+    box-shadow: 1px 1px 1px 1px;
+}
+.align{
+    text-align: center;
 }
