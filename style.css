@@ -1,0 +1,13 @@
+.background-img{
+    background-image: url(images/donation0.jpg);
+    height: 400px;
+    width: 1250px;
+}
+.headding-1{
+    color: white;
+    text-align: center;
+}
+.button{
+    background-color: chocolate;
+    margin-left: 600px;
+}
