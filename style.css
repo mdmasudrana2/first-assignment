@@ -15,10 +15,16 @@
     margin-left: 550px;
 }
 .class-text{
-    margin-left: 500px;
+    margin-left: 400px;
+}
+.donate.com{
+    margin-left: 40px;
 }
 .class-div{
     display: flex;
+}
+.class11{
+    background-color: red;
 }
 .class-button{
     margin-left: 200px;
@@ -26,7 +32,10 @@
 .class-head{
     margin-left: 30px;
 }
-
+#class12{
+    color: brown;
+    box-shadow: red;
+}
 .class2 {
     text-align: center;
     margin-top: 70px;
@@ -96,6 +105,7 @@
 
 section {
     display: flex;
+    padding: 50px;
 }
 
 .class-half {
@@ -103,5 +113,34 @@ section {
 }
 
 .class-half img {
-    width: 70%;
+    width: 100%;
+}
+.button-of1{
+    padding: 10px;
+    background-color: red;
+    color: white;
+}
+.donation{
+    height: 400px;
+    width: 500px;
+}
+.class-class4{
+    margin-left: 60px;
+}
+.class5{
+    margin-left: 500px;
+}
+.class6{
+    margin-left: 400px;
+    background-color: bisque;
+    height: 70px;
+    width: 500px;
+}
+.class7{
+    margin-top: 50px;
+    margin-left: 50px;
+    padding: 20px;
+}
+.class8{
+    background-color: red;
 }
