@@ -1,88 +1,107 @@
-.background-img{
+.background-img {
     background-image: url(images/donation0.jpg);
     height: 400px;
     width: 1250px;
 }
-.headding-1{
+
+.headding-1 {
     color: white;
     text-align: center;
 }
-.button{
+
+.button {
     background-color: chocolate;
     padding: 10px 30px;
     margin-left: 550px;
 }
-.text-align{
-    text-align: center;
-    margin-top: 50px;
+.class-text{
+    margin-left: 500px;
 }
-.class1{
+.class-div{
     display: flex;
-    margin-left: 100px;
 }
-#color{
-    color: chocolate;
-    margin-left:40px ;
-    height: 40px;
-    width: 60px;
-    box-shadow: 1px 1px 1px 1px;
+.class-button{
+    margin-left: 200px;
 }
-.align{
-    text-align: center;
+.class-head{
+    margin-left: 30px;
 }
-.class2{
+
+.class2 {
     text-align: center;
     margin-top: 70px;
 }
-.images-food{
+
+.images-food {
     height: 30px;
     width: 40px;
-    margin-top:40px ;
-    margin-left:20px ;
+    margin-top: 40px;
+    margin-left: 20px;
 }
-.class-food{
+
+.class-food {
     background-color: rgb(196, 201, 200);
     margin-left: 80px;
     height: 300px;
     width: 300px;
 }
-.class3{
+
+.class3 {
     margin-top: 40px;
     margin-left: 20px;
 }
-.image-familly{
+
+.image-familly {
     height: 30px;
     width: 40px;
     margin-top: 40px;
     margin-left: 20px;
 }
-.class-familly{
+
+.class-familly {
     background-color: rgb(251, 245, 234);
     margin-left: 80px;
     height: 300px;
     width: 300px;
 }
-.class-familly2{
+
+.class-familly2 {
     margin-top: 40px;
     margin-left: 20px;
 }
-.image-educated{
+
+.image-educated {
     height: 30px;
     width: 40px;
     margin-top: 40px;
     margin-left: 20px;
 }
-.class-educated{
+
+.class-educated {
     background-color: rgb(237, 217, 193);
     margin-left: 80px;
-    height:300px ;
+    height: 300px;
     width: 300px;
 }
-.educated2{
+
+.educated2 {
     margin-top: 40px;
     margin-left: 20px;
 }
-.main-div{
+
+.main-div {
     display: flex;
     margin-top: 50px;
+}
+
+section {
+    display: flex;
+}
+
+.class-half {
+    width: 50%;
+}
+
+.class-half img {
+    width: 70%;
 }
